@@ -2,7 +2,7 @@
   "name": "monokai-dark-by-mathieu42",
   "displayName": "Monokai Dark by Mathieu42",
   "description": "A complete, dark and minimalistic Monokai-inspired theme for VS Code and Cursor.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "publisher": "mathieu42",
   "author": {
     "name": "Mathieu Lopes",
@@ -48,9 +48,11 @@
     ]
   },
   "scripts": {
-    "dev": "cursor --extensionDevelopmentPath \"$PWD\"",
-    "dev:vscode": "code --extensionDevelopmentPath \"$PWD\"",
+    "dev": "bash scripts/dev.sh cursor",
+    "dev:vscode": "bash scripts/dev.sh code",
+    "dev:demo": "bash scripts/dev.sh cursor resources/samples/demo-simple.ts resources/samples/demo-advanced.ts",
     "package": "vsce package --no-dependencies",
-    "publish": "vsce publish --no-dependencies"
+    "publish": "vsce publish --no-dependencies",
+    "publish:openvsx": "ovsx publish --no-dependencies"
   }
 }

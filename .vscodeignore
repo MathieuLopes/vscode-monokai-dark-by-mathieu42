@@ -1,7 +1,9 @@
 .editorconfig
 .gitignore
-PUBLICATION.md
 .github/**
+.vscode/**
+scripts/**
+resources/samples/**
 resources/**/*.afdesign
 resources/**/*.afphoto
 resources/**/*.gif
