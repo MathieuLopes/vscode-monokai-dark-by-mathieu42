@@ -1,0 +1,56 @@
+{
+  "name": "monokai-dark-by-mathieu42",
+  "displayName": "Monokai Dark by Mathieu42",
+  "description": "A complete, dark and minimalistic Monokai-inspired theme for VS Code and Cursor.",
+  "version": "1.0.0",
+  "publisher": "mathieu42",
+  "author": {
+    "name": "Mathieu Lopes",
+    "url": "https://www.mathieu42.com"
+  },
+  "license": "MIT",
+  "icon": "resources/logo-128x128.png",
+  "galleryBanner": {
+    "color": "#161616",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MathieuLopes/vscode-monokai-dark-by-mathieu42.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MathieuLopes/vscode-monokai-dark-by-mathieu42/issues"
+  },
+  "homepage": "https://github.com/MathieuLopes/vscode-monokai-dark-by-mathieu42#readme",
+  "qna": "marketplace",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "color-theme",
+    "monokai",
+    "dark",
+    "minimal",
+    "cursor",
+    "mathieu42"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Monokai Dark by Mathieu42",
+        "uiTheme": "vs-dark",
+        "path": "./themes/default.json"
+      }
+    ]
+  },
+  "scripts": {
+    "dev": "cursor --extensionDevelopmentPath \"$PWD\"",
+    "dev:vscode": "code --extensionDevelopmentPath \"$PWD\"",
+    "package": "vsce package --no-dependencies",
+    "publish": "vsce publish --no-dependencies"
+  }
+}

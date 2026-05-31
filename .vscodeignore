@@ -1,0 +1,10 @@
+.editorconfig
+.gitignore
+PUBLICATION.md
+.github/**
+resources/**/*.afdesign
+resources/**/*.afphoto
+resources/**/*.gif
+resources/**/*.mp4
+resources/logo.png
+**/.DS_Store
