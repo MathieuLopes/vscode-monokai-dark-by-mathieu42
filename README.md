@@ -34,7 +34,15 @@ Syntax highlighting works across VS Code language grammars. Semantic highlightin
 
 ### Marketplace
 
-Search for **Monokai Dark by Mathieu42** (publisher: **mathieu42**).
+Published on the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=mathieu42.monokai-dark-by-mathieu42).
+
+**Quick Open** (`Ctrl+P` / `Cmd+P`) → paste:
+
+```
+ext install mathieu42.monokai-dark-by-mathieu42
+```
+
+Or search for **Monokai Dark by Mathieu42** (publisher: **mathieu42**) in the Extensions view.
 
 ### Open VSX
 
@@ -96,6 +104,7 @@ Sample sources: `resources/samples/demo-simple.ts`, `resources/samples/demo-adva
 
 ## Links
 
+- Marketplace: [Monokai Dark by Mathieu42](https://marketplace.visualstudio.com/items?itemName=mathieu42.monokai-dark-by-mathieu42)
 - Website: [mathieu42.com](https://www.mathieu42.com)
 - Repository: [vscode-monokai-dark-by-mathieu42](https://github.com/MathieuLopes/vscode-monokai-dark-by-mathieu42)
 
