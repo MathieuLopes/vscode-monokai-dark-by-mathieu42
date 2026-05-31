@@ -2,6 +2,7 @@
 .gitignore
 .github/**
 .vscode/**
+PUBLISHING.md
 scripts/**
 resources/samples/**
 resources/**/*.afdesign

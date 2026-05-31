@@ -7,6 +7,7 @@
 - GitHub Actions release workflow (VSIX + optional Open VSX publish).
 - README enriched with language support, tested editors, and Open VSX install.
 - `LICENSE` file (MIT), `.vscode/extensions.json`, screenshot sample files.
+- `PUBLISHING.md` guide for Marketplace upload and release workflow.
 
 ## 1.0.0
 

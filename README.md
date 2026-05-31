@@ -78,6 +78,8 @@ The dev scripts resolve the editor CLI automatically on macOS (even when `cursor
 | `npm run publish` | Publish to the VS Code Marketplace |
 | `npm run publish:openvsx` | Publish to Open VSX |
 
+See **[PUBLISHING.md](PUBLISHING.md)** for Marketplace upload, CLI publish, releases, and verified publisher setup.
+
 Refresh Marketplace screenshots:
 
 ```bash
