@@ -6,7 +6,7 @@
 
 A complete, dark and minimalistic Monokai-inspired color theme for [Visual Studio Code](https://code.visualstudio.com) and [Cursor](https://cursor.com).
 
-By [Mathieu Lopes](https://www.mathieu42.com) ([Mathieu42](https://www.mathieu42.com)).
+By [Mathieu Lopes](https://www.mathieu42.com/?utm_source=github&utm_medium=repo&utm_campaign=opensource&utm_content=vscode-monokai-dark-by-mathieu42) ([Mathieu42](https://www.mathieu42.com/?utm_source=github&utm_medium=repo&utm_campaign=opensource&utm_content=vscode-monokai-dark-by-mathieu42)).
 
 ## Features
 
@@ -105,7 +105,7 @@ Sample sources: `resources/samples/demo-simple.ts`, `resources/samples/demo-adva
 ## Links
 
 - Marketplace: [Monokai Dark by Mathieu42](https://marketplace.visualstudio.com/items?itemName=mathieu42.monokai-dark-by-mathieu42)
-- Website: [mathieu42.com](https://www.mathieu42.com)
+- Website: [mathieu42.com](https://www.mathieu42.com/?utm_source=github&utm_medium=repo&utm_campaign=opensource&utm_content=vscode-monokai-dark-by-mathieu42)
 - Repository: [vscode-monokai-dark-by-mathieu42](https://github.com/MathieuLopes/vscode-monokai-dark-by-mathieu42)
 
 ## License
