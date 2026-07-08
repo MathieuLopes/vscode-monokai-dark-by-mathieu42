@@ -8,6 +8,8 @@ A complete, dark and minimalistic Monokai-inspired color theme for [Visual Studi
 
 By [Mathieu Lopes](https://www.mathieu42.com/?utm_source=github&utm_medium=repo&utm_campaign=opensource&utm_content=vscode-monokai-dark-by-mathieu42) ([Mathieu42](https://www.mathieu42.com/?utm_source=github&utm_medium=repo&utm_campaign=opensource&utm_content=vscode-monokai-dark-by-mathieu42)).
 
+> **Note (July 2026)** — The extension is temporarily unavailable on the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=mathieu42.monokai-dark-by-mathieu42) while a publisher account issue is resolved with Microsoft. It remains installable via [Open VSX](https://open-vsx.org/extension/mathieu42/monokai-dark-by-mathieu42) (Cursor, VSCodium) or from a [GitHub Release](https://github.com/MathieuLopes/vscode-monokai-dark-by-mathieu42/releases) `.vsix` file.
+
 ## Features
 
 - **Complete** — Broad UI coverage, including chat, inline edits, and sticky scroll.
@@ -32,17 +34,15 @@ Syntax highlighting works across VS Code language grammars. Semantic highlightin
 
 ## Installation
 
-### Marketplace
+### Visual Studio Marketplace (temporarily unavailable)
 
-Published on the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=mathieu42.monokai-dark-by-mathieu42).
+The extension is not currently listed on the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=mathieu42.monokai-dark-by-mathieu42). Use **Open VSX** or a **VSIX** install below until it is restored.
 
-**Quick Open** (`Ctrl+P` / `Cmd+P`) → paste:
+When back online, install with **Quick Open** (`Ctrl+P` / `Cmd+P`):
 
 ```
 ext install mathieu42.monokai-dark-by-mathieu42
 ```
-
-Or search for **Monokai Dark by Mathieu42** (publisher: **mathieu42**) in the Extensions view.
 
 ### Open VSX
 
@@ -52,7 +52,7 @@ For Cursor, VSCodium, and other Open VSX–compatible editors:
 ovsx install mathieu42.monokai-dark-by-mathieu42
 ```
 
-Or browse [Open VSX](https://open-vsx.org/extension/mathieu42/monokai-dark-by-mathieu42) after the first publish.
+Or browse [Open VSX](https://open-vsx.org/extension/mathieu42/monokai-dark-by-mathieu42).
 
 ### VSIX
 
@@ -104,7 +104,7 @@ Sample sources: `resources/samples/demo-simple.ts`, `resources/samples/demo-adva
 
 ## Links
 
-- Marketplace: [Monokai Dark by Mathieu42](https://marketplace.visualstudio.com/items?itemName=mathieu42.monokai-dark-by-mathieu42)
+- Marketplace: [Monokai Dark by Mathieu42](https://marketplace.visualstudio.com/items?itemName=mathieu42.monokai-dark-by-mathieu42) *(temporarily unavailable)*
 - Website: [mathieu42.com](https://www.mathieu42.com/?utm_source=github&utm_medium=repo&utm_campaign=opensource&utm_content=vscode-monokai-dark-by-mathieu42)
 - Repository: [vscode-monokai-dark-by-mathieu42](https://github.com/MathieuLopes/vscode-monokai-dark-by-mathieu42)
 
